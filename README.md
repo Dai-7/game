@@ -1,3 +1,3 @@
-# Exercício jogo python
+ jogo python
 
-Estudo sobre pygame 
+ pygame 
